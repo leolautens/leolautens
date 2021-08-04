@@ -19,3 +19,7 @@ Foco em Segurança da Informação
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+##
+<div> 
+  <a href="https://www.linkedin.com/in/leonardo-lautenschlaeger-03004816b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
