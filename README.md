@@ -1,27 +1,24 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=leolautens&show_icons=true&&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&include_all_commits=true&count_private=true">
+### Hi, you can call me Leo (:
+<img align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="230" />
+<p><em> Student who loves programming and learning about new technologies, great interest in cybersecurity.</a>
+ </em></p>
 
-
-### Olá!! 
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Leonardo&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Estudando Ciência da Computação<br/>
-
-Foco em Segurança da Informação
+<p align="left">
+  Languages and Skills: <strong>CSS, HTML, JS, Java,
+MySQL and Python.</strong>
 </p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-##
-<div> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leonardo.lautenschlaeger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-lautenschlaeger-03004816b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<p align="left">
+ Find me:
+</p>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lautenschlaeger-03004816b/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leozin0x0)
+
+
+<div>
+  <a href="https://github.com/leolautens"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leolautens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
  
