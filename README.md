@@ -1,6 +1,6 @@
-### Hi, you can call me Leo :p
+### hi i'm Leo :p
 <img align="right" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="350" />
-<p><em> I like to code random stuff || passion for hacking || working with microservices || java and sql</a>
+<p><em> I like to code random stuff || passion for hacking || working with microservices -- java and sql</a>
  </em></p>
 
 
