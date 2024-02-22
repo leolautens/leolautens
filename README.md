@@ -1,9 +1,8 @@
 ### hi, i'm Leo :p
 
-<script src="https://tryhackme.com/badge/2726283"></script>
-
 <p><em> I like to code random stuff</a>
  </em></p>
+<script src="https://tryhackme.com/badge/2726283"></script>
 
 <!--START_SECTION:waka-->
 
