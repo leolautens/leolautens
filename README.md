@@ -3,6 +3,8 @@
 <p><em> I like to code random stuff</a>
  </em></p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/fantaszy.png" alt="TryHackMe">
+
 <!--START_SECTION:waka-->
 
 ```txt
