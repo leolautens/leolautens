@@ -1,5 +1,7 @@
 ### hi, i'm Leo :p
 
+<script src="https://tryhackme.com/badge/2726283"></script>
+
 <p><em> I like to code random stuff</a>
  </em></p>
 
@@ -16,3 +18,4 @@ XML              3 hrs 11 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
